@@ -13,4 +13,10 @@ Features include:
   * 👋 Close the chat at the appropriate time ("that's everything, thank you!")
 * Displayed as an overlay at the bottom of the screen
 
+## Prerequisites
+
+To run the app you will need a [Daily Bots account](https://bots.daily.co/sign-up) and an [OpenAI API key](https://openai.com/).
+
+## Screenshot
+
 <img alt="screenshot" src="files/screenshot.png" width="400px" />
