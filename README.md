@@ -1,3 +1,6 @@
+> [!Warning]
+> **DAILY BOTS AND ALL ASSOCIATED DEMOS HAVE BEEN SUNSETTED AND REPLACED BY [PIPECAT CLOUD](https://www.daily.co/products/pipecat-cloud/)**
+
 # 🤖 Daily Bots Assistant Demo
 
 An Android voice assistant using the Daily Bots API.
